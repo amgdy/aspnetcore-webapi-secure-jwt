@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiJwtHmac", "AspNetCoreWebApiJwtHmac\AspNetCoreWebApiJwtHmac.csproj", "{01F9FDD0-AD7B-4442-9ED8-CB52BFE27FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F9FDD0-AD7B-4442-9ED8-CB52BFE27FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F9FDD0-AD7B-4442-9ED8-CB52BFE27FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F9FDD0-AD7B-4442-9ED8-CB52BFE27FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F9FDD0-AD7B-4442-9ED8-CB52BFE27FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81125AC7-63EE-43A2-8FFA-205B70AB753C}
+	EndGlobalSection
+EndGlobal
